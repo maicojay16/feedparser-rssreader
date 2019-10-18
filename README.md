@@ -55,7 +55,7 @@ mysql -u root -p
 create database feedreader;
 ```
 
-### Create database
+### Install feedparser
 
 ```bash
 pip3 install feedparser
